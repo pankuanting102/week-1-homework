@@ -25,4 +25,4 @@ Updates Including:
 <br>change "h2" tag in footer to "h3" so it follows sequential order and what it meant to be. make sure heading is following in h1 > h2 > h3 order for clear type hierarchy.
 
 <b>Others:</b>
-Add comments to divid nav, content and footer modules for ease of reviewing code. 
+<br>Add comments to divid nav, content and footer modules so it's easy to review code from one module to module. 
